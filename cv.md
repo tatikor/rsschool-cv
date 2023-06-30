@@ -3,7 +3,7 @@
 
 <h3>Contact information:</h3>
 <p><strong>Phone</strong>: +7 916 431 18 93<br />
-<strong>E-mail</strong>: tatianakorotkova7@gmail.com</p>
+<strong>E-mail</strong>: acerbity@mail.ru</p>
 <h3>Briefly About Myself:</h3>
 <p>About 10 years ago I set a goal to find a job related to foreign languages. And I did. That's how I got into foreign trade.</p>
 <p>After a while I got interesteg in programming languages and started to study in each free course I found. But at that moment I lacked free time.</p>  

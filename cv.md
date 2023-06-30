@@ -30,7 +30,7 @@
 </ul>
 <h3>Languages:</h3>
 <ul>
-<li>English - Advanced/Proficient (according to the online test at EFset Logo www.efset.org)</li>
+<li>English - Advanced</li>
 <li>Russian - Native</li>
 <li>Spanish - Upper-intermediate</li>
 <li>German - Basic</li>
